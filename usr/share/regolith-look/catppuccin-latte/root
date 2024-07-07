@@ -77,6 +77,7 @@ regolith.compositor.picom.config: /usr/share/regolith-look/catppuccin-latte/pico
 gtk.font_name: gtk_font_name
 gtk.document_font_name: gtk_document_font_name
 gtk.monospace_font_name: gtk_monospace_font_name
+wm.bar.font: gtk_font_name
 
 ! --------------------------------------------
 ! -- Colors
