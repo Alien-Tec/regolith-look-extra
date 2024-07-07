@@ -17,3 +17,4 @@ gnome.terminal.color15:   color_subtext0
 
 gnome.terminal.font:      gtk_monospace_font_name
 gnome.terminal.scrollbar: never
+gnome.terminal.update: false
