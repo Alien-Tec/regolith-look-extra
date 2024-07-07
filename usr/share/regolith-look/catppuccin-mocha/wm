@@ -13,6 +13,7 @@
 
 ilia.stylesheet: /usr/share/regolith-look/catppuccin-mocha/ilia.css
 
+wm.bar.font: gtk_font_name
 wm.bar.position: i3wm_bar_position
 wm.bar.background.color: color_mantle
 wm.bar.statusline.color: color_surface0
